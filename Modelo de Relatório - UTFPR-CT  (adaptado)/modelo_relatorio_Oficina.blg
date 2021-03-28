@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: modelo_relatorio_Oficina.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: abnt-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: abnt-options.bib
+Database file #2: reflatex.bib
+Warning--I didn't find a database entry for "abnt-etal-list=99"
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 5 entries,
+            6523 wiz_defined-function locations,
+            1182 strings with 9550 characters,
+and the built_in function-call counts, 2540 in all, are:
+= -- 303
+> -- 17
+< -- 2
++ -- 50
+- -- 7
+* -- 112
+:= -- 341
+add.period$ -- 9
+call.type$ -- 7
+change.case$ -- 21
+chr.to.int$ -- 11
+cite$ -- 2
+duplicate$ -- 67
+empty$ -- 283
+format.name$ -- 23
+if$ -- 672
+int.to.chr$ -- 2
+int.to.str$ -- 2
+missing$ -- 61
+newline$ -- 18
+num.names$ -- 5
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 291
+stack$ -- 1
+substring$ -- 85
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 8
+width$ -- 0
+write$ -- 38
+(There was 1 warning)
